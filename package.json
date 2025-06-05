@@ -3,16 +3,15 @@
   "version": "1.0.0",
   "description": "Discord бот для мониторинга игровых серверов",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "axios": "^1.6.7",
-    "discord.js": "^14.14.1",
-    "dotenv": "^16.4.1",
-    "gamedig": "^4.0.7",
-    "set-interval-async": "^3.1.0"
+    "axios": "1.6.7",
+    "discord.js": "14.14.1",
+    "dotenv": "16.4.1",
+    "gamedig": "4.0.7",
+    "set-interval-async": "3.0.3"
   },
   "engines": {
     "node": ">=18.0.0"
