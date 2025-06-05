@@ -61,11 +61,11 @@ GUILD_ID=айди_сервера_где_работает_бот
     "connect": "127.0.0.2:27016"
   },
   {
-	"name": "Mine",
-	"type": "minecraft",
-	"ip": "127.0.0.3",
-	"port": 25565,
-	"version": "1.24"
+    "name": "Mine",
+    "type": "minecraft",
+    "ip": "127.0.0.3",
+    "port": 25565,
+    "version": "1.24"
   },
   {
     "name": "SCP:SL",
