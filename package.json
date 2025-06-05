@@ -1,6 +1,6 @@
 {
   "name": "gss-v3",
-  "version": "1.0.0",
+  "version": "4.0.0",
   "description": "Discord бот для мониторинга игровых серверов",
   "main": "index.js",
   "scripts": {
