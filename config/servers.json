@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Metrostroi #1",
+    "type": "garrysmod",
+    "ip": "37.230.137.194",
+    "port": 27015,
+    "connect": "https://api2.vodka-pro.ru/connect/metrostroi1"
+  },
+  {
+    "name": "Metrostroi #2",
+    "type": "garrysmod",
+    "ip": "37.230.137.194",
+    "port": 28015,
+    "connect": "https://api2.vodka-pro.ru/connect/metrostroi2"
+  },
+  {
+  "name": "AlcoMine",
+  "type": "minecraft",
+  "ip": "37.230.137.194",
+  "port": 25565,
+  "version": "1.24"
+  },
+  {
+    "name": "SCP:SL",
+    "type": "scp",
+    "ip": "37.230.137.194",
+	"maxplayers": 20,
+    "port": 7777,
+    "connect": "https://api2.vodka-pro.ru/connect/scpsl"
+  }
+]
