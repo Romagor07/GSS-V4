@@ -71,7 +71,7 @@ GUILD_ID=айди_сервера_где_работает_бот
     "name": "SCP:SL",
     "type": "scp"
     "ip": "127.0.0.3",
-	  "maxplayers": 20,
+    "maxplayers": 20,
     "port": 7777,
     "connect": "127.0.0.3:7777"
   }
