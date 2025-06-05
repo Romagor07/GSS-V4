@@ -21,8 +21,8 @@ Discord-бот для мониторинга состояния игровых �
 1. **Клонируйте репозиторий** или скачайте ZIP:
 
 ```bash
-git clone https://github.com/yourusername/gss-monitor-bot.git
-cd gss-monitor-bot
+git clone https://github.com/Romagor07/GSS-V4.git
+cd GSS-V4
 ```
 
 2. **Установите зависимости**:
